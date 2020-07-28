@@ -4,4 +4,4 @@ Since there are not that many a little bit more complex amd64 FreeBSD assembler 
 
 The game uses SVGALIB and it is fully functional, but keyboard input is not as smooth as it could be.
 
-More details [in this blog entry](https://honeyguide.eu/posts/asm64-fbsd/)
+More details [in this blog entry](https://honeyguide.eu/posts/asm64-fbsd/).
