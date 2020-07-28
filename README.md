@@ -1,6 +1,6 @@
 # arkowski-tetris
 
-Since there are not that many more complex amd64 FreeBSD assembler examples available on the net, this is a port of DOS Tetris app from [https://github.com/Arkowski24/nasm-tetris](https://github.com/Arkowski24/nasm-tetris).
+Since there are not that many a little bit more complex amd64 FreeBSD assembler examples available on the net, this is a port of DOS Tetris app from [https://github.com/Arkowski24/nasm-tetris](https://github.com/Arkowski24/nasm-tetris).
 
 The game uses SVGALIB and it is fully functional, but keyboard input is not as smooth as it could be.
 
